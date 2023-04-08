@@ -22,7 +22,7 @@ while True:
             total = total + num
             count = count + 1
         else:
-            print('Invalid input')
+            print('Invalid input!')
         continue
 
 print('After:', total, count, total/count)
